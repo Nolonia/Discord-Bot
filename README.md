@@ -54,7 +54,7 @@ git clone https://github.com/Nolonia/Nolonia.git
 ```
 After cloning, run an
 ```
-npm install
+npm install aoi.js
 ```
 to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/aoi.js) as it makes testing *much* easier.
 
