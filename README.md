@@ -56,7 +56,7 @@ After cloning, run an
 ```
 npm install aoi.js
 ```
-to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/aoi.js) as it makes testing *much* easier.
+to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [aoi.js](https://www.npmjs.com/package/aoi.js) as it makes testing *much* easier.
 
 ## Setting Up
 
