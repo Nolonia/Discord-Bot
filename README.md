@@ -48,7 +48,7 @@ Nolonia also comes packed with a variety of features, such as:
 
 ## Installation
 
-You can add Calypso to your server with [this](https://discord.com/api/oauth2/authorize?client_id=839436962057551892&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2F7CgzRGCUvC&response_type=code&scope=guilds.join%20bot) link! Alternatively, you can clone this repo and host the bot yourself.
+You can add Nolonia to your server with [this](https://discord.com/api/oauth2/authorize?client_id=839436962057551892&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2F7CgzRGCUvC&response_type=code&scope=guilds.join%20bot) link! Alternatively, you can clone this repo and host the bot yourself.
 ```
 git clone https://github.com/Nolonia/Nolonia.git
 ```
